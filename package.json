@@ -1,0 +1,7 @@
+{
+	"name": "DevDocs",
+	"type": "module",
+	"dependencies": {
+		"open": "10.1.0"
+	}
+}

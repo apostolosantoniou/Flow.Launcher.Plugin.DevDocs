@@ -1,0 +1,12 @@
+{
+  "ID": "a3c36e85-793c-4881-90bf-6d791a978a9f",
+  "ActionKeyword": "dd",
+  "Name": "DevDocs",
+  "Description": "Quick access to documentations for various programming languages, frameworks and tools.",
+  "Author": "Apostolos Antoniou",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "ExecuteFileName": "main.js",
+  "Website": "https://github.com/apostolosantoniou/Flow.Launcher.Plugin.DevDocs",
+  "IcoPath": "icons\\app.png"
+}
