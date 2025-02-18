@@ -6,7 +6,7 @@
   "Author": "Apostolos Antoniou",
   "Version": "1.0.0",
   "Language": "javascript",
-  "ExecuteFileName": "main.js",
+  "ExecuteFileName": "./src/main.js",
   "Website": "https://github.com/apostolosantoniou/Flow.Launcher.Plugin.DevDocs",
   "IcoPath": "icons\\app.png"
 }
