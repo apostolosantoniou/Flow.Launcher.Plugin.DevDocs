@@ -24,7 +24,7 @@ export const data = [
     { "key": "alpinejs", "name": "Alpine.js", "url": "https://alpinejs.dev/start" },
     { "key": "anaconda", "name": "Anaconda", "url": "https://docs.anaconda.com/anaconda/" },
     { "key": "androidstudio", "name": "Android Studio", "url": "https://developer.android.com/studio" },
-    { "key": "angular", "name": "Angular", "url": "https://angular.io/docs" },
+    { "key": "angular", "name": "Angular", "url": "https://angular.dev" },
     { "key": "angularjs", "name": "AngularJS", "url": "https://docs.angularjs.org/guide" },
     { "key": "angularmaterial", "name": "Angular Material", "url": "https://material.angular.io/" },
     { "key": "ansible", "name": "Ansible", "url": "https://docs.ansible.com/" },
