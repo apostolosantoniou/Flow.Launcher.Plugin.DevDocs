@@ -20,6 +20,8 @@ export const match = (parameter) => {
 
 export const data = [
     { "key": "adonisjs", "name": "AdonisJS", "url": "https://docs.adonisjs.com/" },
+    { "key": "ahk", "name": "AutoHotkeyV1", "url": "https://www.autohotkey.com/docs/v1/" },
+    { "key": "ahkv2", "name": "AutoHotkeyV2", "url": "https://www.autohotkey.com/docs/v2/" },
     { "key": "akka", "name": "Akka", "url": "https://doc.akka.io/docs/akka/current/" },
     { "key": "alpinejs", "name": "Alpine.js", "url": "https://alpinejs.dev/start" },
     { "key": "anaconda", "name": "Anaconda", "url": "https://docs.anaconda.com/anaconda/" },
@@ -368,5 +370,4 @@ export const data = [
     { "key": "yii", "name": "Yii", "url": "https://www.yiiframework.com/doc/guide/2.0/en" },
     { "key": "zend", "name": "Zend Framework", "url": "https://docs.laminas.dev/" },
     { "key": "zig", "name": "Zig", "url": "https://ziglang.org/documentation/master/" }
-]  
-  
+]
